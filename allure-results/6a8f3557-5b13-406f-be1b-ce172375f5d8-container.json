@@ -1,0 +1,1 @@
+{"uuid":"6a8f3557-5b13-406f-be1b-ce172375f5d8","name":"Nopcommerce place order feature Test","children":["154ebc00-bcb7-4daf-aa52-9ff0006cf03f"],"befores":[{"name":"doSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1680033448511,"stop":1680033455992}],"afters":[],"start":1680033448511,"stop":1680033486889}

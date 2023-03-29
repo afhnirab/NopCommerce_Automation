@@ -1,0 +1,1 @@
+{"uuid":"9226d532-4b8f-4aa7-af6c-a675bdc2b8d5","name":"NopCommerce_Automation","children":["31c60b82-447e-4eaa-85fb-8c0338ae1c52"],"befores":[{"name":"doSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1680014640023,"stop":1680014652183}],"afters":[],"start":1680014640007,"stop":1680014687522}

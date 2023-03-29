@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose = "1" name = "Orange HRM automation">
+    <test name = "Nopcommerce registration feature Test">
+        <classes>
+            <class name = "testrunner.RegistrationTestRunner"/>
+        </classes>
+    </test>
+    <test name = "Nopcommerce place order feature Test">
+        <classes>
+            <class name = "testrunner.OrderTestRunner"/>
+        </classes>
+    </test>
+</suite>
